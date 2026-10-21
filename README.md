@@ -45,7 +45,7 @@ I enjoy taking engineering projects from initial concepts and CAD models to prot
 
 ## 📂 My Projects
 
-### ☀️ [Solar-Powered Canoe](projects/solar-canoe.md)
+### ☀️ [Solar-Powered Canoe](projects/solar_canoe.md)
 Design, manufacturing, and testing of a
 16-foot solar-powered canoe.
 
