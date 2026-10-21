@@ -42,6 +42,23 @@ I enjoy taking engineering projects from initial concepts and CAD models to prot
 
 ---
 
+
+## 📂 My Projects
+
+### ☀️ [Solar-Powered Canoe](projects/solar-canoe.md)
+Design, manufacturing, and testing of a
+16-foot solar-powered canoe.
+
+### 🚀 [Turbine Blade Investment Casting](projects/turbine-blade.md)
+CAD design, gating systems, and casting.
+
+### ⚙️ [CNC Machining](projects/cnc-machining.md)
+CAM programming and precision manufacturing.
+
+### 🔊 [HearLink](projects/hearlink.md)
+Hardware development and prototyping.
+
+
 ### 📂 Featured Engineering Projects
 
 #### ☀️ Solar-Powered Canoe
